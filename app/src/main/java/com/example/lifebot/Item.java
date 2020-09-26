@@ -1,0 +1,17 @@
+package com.example.lifebot;
+
+public class Item {
+    private String suit;
+    private String card;
+    public Item(String suit, String card) {
+        this.suit = suit;
+        this.card = card;
+    }
+    public String getSuit() {
+        return suit;
+    }
+    public String getCard() {
+        return card;
+    }
+
+}

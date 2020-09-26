@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_favourite"
+        android:title="User"
+        android:icon="@drawable/ic_launcher_background"></item>
+
+    <item
+        android:id="@+id/Login"
+        android:title="Login"></item>
+
+    <item
+        android:id="@+id/SignUp"
+        android:title="SignUp"></item>
+</menu>
